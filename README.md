@@ -1,7 +1,7 @@
 # Multithreaded Elevator Simulation
 
 ## Overview
-This project simulates a real-time elevator control system implemented in C using POSIX threads (pthreads). Built as a CS 361 project at the University of Illinois Chicago, it models multiple elevators and passengers, managing synchronization and coordination between them.
+This project simulates a real-time elevator control system implemented in C using POSIX threads (pthreads). Built as a CS 361 project at the University of Illinois Chicago, this project models multiple elevators and passengers, managing synchronization and coordination between them.
 
 ## Features
 - Real-time simulation of elevator movement and passenger interactions
